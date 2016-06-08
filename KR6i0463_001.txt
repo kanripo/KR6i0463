@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:16.242296
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:41
 #+TITLE: 佛說法身經
 #+PROPERTY: CBETA_ID T17n0766
 #+PROPERTY: ID KR6i0463
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 766
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0463_T_000-0699b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0463_T_001-0699b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.766¶
-
- 《佛說法身經》¶
+No. 766¶
+《佛說法身經》¶
 ¶
-西天譯經三藏朝奉大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝奉大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 爾時，世尊於大眾中以微妙音作如是言：「諸¶
 佛如來有二種身，皆具河沙功德。何等為二？¶
@@ -140,7 +138,7 @@ No.766¶
 廣大微妙難思，是大智者如實了知。而此佛¶
 法，乃是殑伽沙數正等正覺殊妙之法，是平¶
 等法，若有求證正等覺智，諸苾芻、苾芻尼、優¶
-婆、塞優婆夷，及諸外道尼乾子等，具正智者¶
+婆塞、優婆夷，及諸外道尼乾子等，具正智者¶
 如實了知，復為眾生廣大宣說，如佛所化，令¶
 無量無邊阿僧祇眾生，悉皆證得寂靜無畏¶
 究竟涅盤。」¶
